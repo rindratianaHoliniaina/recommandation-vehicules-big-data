@@ -11,6 +11,32 @@
 
 ---
 
+## Présentation du projet
+
+Projet académique réalisé en équipe dans le cadre du Master 2 MIAGE MBDS de
+l'Université Côte d'Azur en 2024.
+
+L'objectif est d'analyser les données d'un concessionnaire automobile afin de
+recommander des catégories de véhicules adaptées aux profils clients.
+
+Le projet comprend :
+- la construction d'un Data Lake à partir de plusieurs sources de données ;
+- l'intégration et le traitement des données avec HDFS, MongoDB, Oracle NoSQL,
+  Hive, Python et Spark ;
+- le nettoyage et l'analyse exploratoire des données ;
+- le clustering des véhicules selon leurs caractéristiques ;
+- l'entraînement et l'évaluation de plusieurs modèles de Machine Learning ;
+- l'application du modèle retenu aux données clients pour générer des recommandations.
+
+### Technologies
+
+`Python` `PySpark` `Apache Spark` `Hadoop/HDFS` `Hive` `MongoDB`
+`Oracle NoSQL` `Java` `Machine Learning`
+
+### Contexte
+
+Projet réalisé en 2024 et publié sur GitHub en 2026 dans le cadre de mon portfolio.
+
 ## Notice : Lire attentivement
 
 Ce guide vous aidera à initialiser les différents composants nécessaires pour l'analyse des données de clientèle et la
